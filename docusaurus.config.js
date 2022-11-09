@@ -9,7 +9,7 @@ const config = {
   title: '🏥 TYT Wiki',
   tagline: 'Tra cứu thông tin',
   url: 'https://tytvietdoan-wiki.vercel.app',
-  baseUrl: '/docs',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
